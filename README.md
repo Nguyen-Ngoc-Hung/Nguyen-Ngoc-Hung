@@ -2,7 +2,7 @@
 
 ###
   <h1 align="center"><img src="https://img.icons8.com/doodle/48/000000/user.png"/> NGUYEN NGOC HUNG</h1>
-  <table width="100%" border="0px">
+  <table width="100%" cellspacing="0" cellpadding="0" style="border: none">
     <tr>
       <td width="50%" >
         <div style="height: 100%;">
@@ -17,6 +17,7 @@
       <td width="50%">
         <div>
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-ngoc-hung&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Language" alt="language" width="100%"/>
+          <p> </p>
           <img src="https://github-readme-stats.vercel.app/api?username=nguyen-ngoc-hung&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Activity" alt="tiennhm" width="100%"/>
         </div>
       </td>
