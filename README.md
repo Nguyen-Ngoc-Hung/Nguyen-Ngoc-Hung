@@ -1,7 +1,5 @@
-
-
 ###
-  <h1 align="center"><img src="https://img.icons8.com/doodle/48/000000/user.png"/> NGUYEN NGOC HUNG</h1>
+  <h1 align="center"><img src="https://img.icons8.com/doodle/48/000000/user.png" width="40px"/> <b>NGUYEN NGOC HUNG</b></h1>
   <table width="100%" cellspacing="0" cellpadding="0" style="border: none">
     <tr>
       <td width="50%" >
